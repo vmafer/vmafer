@@ -4,7 +4,7 @@
 
 🌱 Atualmente estou me aperfeiçoando no Desenvolvimento Web, com foco em Back-End 
 
-📫 Como chegar até mim: vilelafernando17@gmail.com
+📫 Como chegar até mim: vilelafernando17@gmail.com, e todas minhas outras redes se encontram abaixo! 
 
   <div align="side">
   <a href="https://vmafer">
