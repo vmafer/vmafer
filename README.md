@@ -1,10 +1,8 @@
 👋 Olá, me chamo Fernando Vilela!
 
-👀 Estou interessado em Programação, Apps
+👀 Estou interessado em Programação, Desenvolvimento Web e Tecnologia!
 
-🌱 Atualmente estou aprendendo princípios de Back End 
-
-💞️ Estou procurando colaborar em novos projetos de progarmação
+🌱 Atualmente estou me aperfeiçoando no Desenvolvimento Web, com foco em Back-End 
 
 📫 Como chegar até mim: vilelafernando17@gmail.com
 
