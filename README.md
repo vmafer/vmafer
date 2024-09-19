@@ -4,7 +4,7 @@
 
 🌱 Atualmente estou me aperfeiçoando no Desenvolvimento Web, com foco em Back-End 
 
-📫 Como chegar até mim: vilelafernando17@gmail.com, e todas minhas outras redes se encontram abaixo! 
+📫 Como chegar até mim: vilelafernando17cv@gmail.com, e todas minhas outras redes se encontram abaixo! 
 
 ##
   [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)
